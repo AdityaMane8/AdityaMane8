@@ -47,6 +47,6 @@ Graduate in **Master of Computer Applications (MCA)** with hands-on experience b
 ### 🌐 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/adityamane](https://linkedin.com/in/adityamane)
-* 🐙 **GitHub:** [github.com/adityamane](https://github.com/adityamane)
+* 🐙 **GitHub:** [github.com/adityamane](https://github.com/adityamane8)
 * 📧 **Email:** [adityama8888@gmail.com](mailto:adityama8888@gmail.com)
 * 📍 **Location:** Pune, India *(Open to Relocation)*
