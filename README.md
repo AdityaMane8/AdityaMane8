@@ -1,28 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aditya Mane</h1>
-<h3 align="center">Fullstack App developer Using Flutter</h3>
+# Hi there, I'm Aditya Mane 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamane8&label=Profile%20views&color=0e75b6&style=flat" alt="adityamane8" /> </p>
+🚀 **Software Engineer** specializing in **Backend Systems, Data Processing Pipelines, and Cloud Infrastructure**.  
+Graduate in **Master of Computer Applications (MCA)** with hands-on experience building scalable REST microservices, optimizing database performance, and automating continuous delivery pipelines on Linux environments.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamane8" alt="adityamane8" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Android ,Flutter , Dart ,Java ,Kotlin**
+### 🧰 Tech Stack & Expertise
 
-- 💬 Ask me about **Flutter ,Android**
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, Java, Golang (Go), C/C++, SQL (PostgreSQL, MySQL), JavaScript |
+| **Backend & Architecture** | RESTful APIs, Microservices Architecture, Data Processing Pipelines, System Debugging |
+| **Cloud & DevOps** | Linux (RHEL/CLI), Docker, Kubernetes, OpenShift, Ansible Concepts, Azure, GitHub Actions |
+| **Tools & Databases** | Git, Postman, Maven, PostgreSQL, MySQL, Schema Optimization, Query Tuning |
 
-- 📫 How to reach me **adityama8888@gmail.com**
+---
 
-- ⚡ Fun fact **I love identifying problems and turning them into solutions by creating innovative applications**
+### 💻 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya mane" height="30" width="40" /></a>
-</p>
+#### 🛠️ **Stockly-AI — Financial Analytics & Predictive Platform**
+* Engineered scalable backend microservices and RESTful APIs in **Python** and **Java** for high-throughput data processing.
+* Optimized PostgreSQL database schemas and SQL queries, reducing API latency and improving retrieval speed by **35%**.
+* Automated deployment workflows using **Docker** containers and **GitHub Actions** CI/CD pipelines on **Azure**.
+* **Tech Stack:** `Python` • `Java` • `PostgreSQL` • `Docker` • `Azure` • `GitHub Actions`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 📊 **Data Processing & Logistics System**
+* Architected automated data validation pipelines in **Python** and **SQL** to ingest and process 500+ daily payload records.
+* Diagnosed system bottlenecks on **PostgreSQL** and **MySQL**, reducing data processing failures by **40%**.
+* Executed performance analysis and system execution debugging using **Linux CLI**.
+* **Tech Stack:** `Python` • `SQL` • `PostgreSQL` • `MySQL` • `Linux CLI` • `Data Pipelines`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamane8&show_icons=true&locale=en&layout=compact" alt="adityamane8" /></p>
+#### 🔔 **Event Management Application**
+* Built an event management platform utilizing **Java** and **Firebase** real-time database workflows.
+* Implemented modular UI components and backend integration for dynamic user scheduling and tracking.
+* **Tech Stack:** `Java` • `Firebase` • `Git` • `Android Studio`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamane8&show_icons=true&locale=en" alt="adityamane8" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamane8&" alt="adityamane8" /></p>
+### 🎓 Education & Background
+
+* 🎓 **Master of Computer Applications (MCA)** — *MIT World Peace University, Pune*
+* 🎓 **Bachelor of Computer Science (BCA)** — *COCSIT College, Latur*
+
+---
+
+### 🌐 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/adityamane](https://linkedin.com/in/adityamane)
+* 🐙 **GitHub:** [github.com/adityamane](https://github.com/adityamane)
+* 📧 **Email:** [adityama8888@gmail.com](mailto:adityama8888@gmail.com)
+* 📍 **Location:** Pune, India *(Open to Relocation)*
